@@ -128,7 +128,7 @@ print(res.json())
 
 ## 👩‍💻 Author
 
-- GitHub: [@ApoorvaGowda](https://github.com/ApoorvaGowda)
+- GitHub: [@ApoorvaGowda](https://github.com/Apoorva-h)
 - Hugging Face Space: [email-classifier-appu](https://huggingface.co/spaces/apoorvagowda/email-classifier-appu)
 
 ---
