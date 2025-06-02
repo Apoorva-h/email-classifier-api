@@ -28,9 +28,7 @@ This project performs automatic PII masking and email classification using a tra
 }
 
 📤 Example Output
-json
-Copy
-Edit
+'''json
 {
   "masked_email": "Hi, I am [full_name]. My email is [email]. I need help logging in.",
   "category_of_the_email": "Incident",
