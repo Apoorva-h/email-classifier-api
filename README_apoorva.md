@@ -11,6 +11,9 @@ It is designed for use by customer support systems to improve ticket triaging wh
 **POST Endpoint:**  
 👉 [`/classify`](https://apoorvagowda-email-classifier-appu.hf.space/classify)
 
+**Interactive API Docs (Swagger):**  
+👉 [`/docs`](https://apoorvagowda-email-classifier-appu.hf.space/docs#/default/classify_email_classify_post)
+
 **GET Endpoint (browser-friendly):**  
 👉 [`/`](https://apoorvagowda-email-classifier-appu.hf.space) — returns a welcome message
 
