@@ -72,7 +72,7 @@ This project successfully implements a complete pipeline for PII masking and ema
 
 ## 9. Useful Links
 
-- 🔗 GitHub Repository: [https://github.com/Apoorva-h/email-classifier-api)  
+- 🔗 GitHub Repository: https://github.com/Apoorva-h/email-classifier-api
 - 🔗 Hugging Face API: [https://apoorvagowda-email-classifier-appu.hf.space/classify](https://apoorvagowda-email-classifier-appu.hf.space/classify)  
 - 🔗 Swagger Docs: [https://apoorvagowda-email-classifier-appu.hf.space/docs](https://apoorvagowda-email-classifier-appu.hf.space/docs)
 
